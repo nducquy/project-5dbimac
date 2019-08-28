@@ -1,0 +1,720 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tour apprev="17319" start="node1" appversion="6.0.4">
+  <panorama id="node1">
+    <input levelbiashidpi="1.000" levelbias="0.400" levelingroll="0" width="2048" overlap="1" height="2048" leveltileurl="tiles/node1/cf_%c/l_%l/c_%x/tile_%y.jpg" leveltilesize="510" levelingpitch="0">
+      <level width="2048" predecode="0" height="2048" preload="0"/>
+      <level width="1024" predecode="0" height="1024" preload="0"/>
+      <level width="512" predecode="0" height="512" preload="0"/>
+      <level width="256" predecode="1" height="256" preload="1"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view pannorth="-147.002" fovmode="0">
+      <start projection="4" tilt="-27.2216" pan="1.90992" fov="64.5658"/>
+      <flyin projection="9" tilt="-90" pan="0" fov="170"/>
+      <min tilt="-90" pan="0" fovpixel="2"/>
+      <max fovfisheye="360" fovstereographic="270" tilt="90" pan="360" fov="120" scaletofit="1"/>
+    </view>
+    <userdata author="TLC" comment="" longitude="" description="" source="" title="RGF_VIEW 1" customnodeid="" copyright="TLC" latitude="" datetime="[23 Aug 2019]" info="" tags="REGENT GAMENT 360|VIEW1">
+      <mapcoords mapid="FloorPlan03" x="0.357056" y_floorplan_percent="71.1806" y="-1.1261" x_floorplan_percent="12.6953"/>
+    </userdata>
+    <hotspots width="180" height="20" wordwrap="1">
+      <label width="180" height="20" textalpha="1" bordercolor="0x000000" backgroundcolor="0xffffff" borderalpha="1" enabled="1" borderradius="1" wordwrap="1" backgroundalpha="1" border="1" background="1" textcolor="0x000000"/>
+      <polystyle bordercolor="0x0000ff" mode="0" backgroundcolor="0x0000ff" borderalpha="1" handcursor="1" backgroundalpha="0.25098"/>
+      <hotspot description="" skinid="ht_node" title="RGF_VIEW 2" url="{node2}" tilt="0" pan="30.5355" target="-78.5964/0/70" id="Point01"/>
+      <hotspot description="" skinid="ht_node" title="RGF_VIEW 6" url="{node6}" tilt="0" pan="-79.5746" target="-53.3217/0/70" id="Point02"/>
+      <hotspot description="" skinid="ht_node" title="RGF_VIEW 5" url="{node5}" tilt="0" pan="0" target="$fwd" id="Point05"/>
+      <hotspot description="" skinid="ht_node" title="RGF_VIEW 3" url="{node3}" tilt="0.12" pan="20.3406" target="$fwd" id="Point03"/>
+      <hotspot description="" skinid="ht_node" title="RGF_VIEW 4" url="{node4}" tilt="0" pan="-147.002" target="$fwd" id="Point04"/>
+    </hotspots>
+    <media>
+      <sound startmutedmobile="0" nodechangekeep="0" tilt="-22.810" level="1.000" mode="3" pan="-2.960" pansize="10.000" loop="0" field="90.000" ambientlevel="0.000" id="Noise_Human " tiltsize="10.000">
+        <source url="media/human.mp3"/>
+      </sound>
+      <sound startmutedmobile="0" nodechangekeep="0" tilt="-20.670" level="1.000" mode="3" pan="-320.740" pansize="10.000" loop="0" field="90.000" ambientlevel="0.000" id="Noise_Human " tiltsize="10.000">
+        <source url="media/human.mp3"/>
+      </sound>
+      <sound startmutedmobile="0" nodechangekeep="0" tilt="-37.560" level="1.000" mode="3" pan="-46.550" pansize="10.000" loop="0" field="90.000" ambientlevel="0.000" id="Noise_Tree" tiltsize="10.000">
+        <source url="media/tree.mp3"/>
+      </sound>
+      <sound startmutedmobile="0" nodechangekeep="0" tilt="-56.940" level="1.000" mode="3" pan="-261.120" pansize="10.000" loop="0" field="90.000" ambientlevel="0.000" id="Noise_Tree" tiltsize="10.000">
+        <source url="media/tree.mp3"/>
+      </sound>
+      <sound startmutedmobile="0" nodechangekeep="0" tilt="-40.350" level="1.000" mode="3" pan="-161.310" pansize="10.000" loop="0" field="90.000" ambientlevel="0.000" id="Noise_Tree" tiltsize="10.000">
+        <source url="media/tree.mp3"/>
+      </sound>
+      <sound startmutedmobile="0" nodechangekeep="0" tilt="-33.690" level="1.000" mode="3" pan="-226.830" pansize="10.000" loop="0" field="90.000" ambientlevel="0.000" id="Noise_Car" tiltsize="10.000">
+        <source url="media/car.mp3"/>
+      </sound>
+      <sound startmutedmobile="0" nodechangekeep="0" tilt="-18.540" level="1.000" mode="3" pan="-166.470" pansize="10.000" loop="0" field="90.000" ambientlevel="0.000" id="Noise_Car" tiltsize="10.000">
+        <source url="media/car.mp3"/>
+      </sound>
+      <sound startmutedmobile="0" nodechangekeep="0" tilt="-16.390" level="0.500" mode="3" pan="-287.190" pansize="10.000" loop="0" field="90.000" ambientlevel="0.000" id="Noise_Car" tiltsize="10.000">
+        <source url="media/car.mp3"/>
+      </sound>
+      <sound startmutedmobile="0" nodechangekeep="0" tilt="-22.630" level="1.000" mode="3" pan="-96.220" pansize="10.000" loop="0" field="90.000" ambientlevel="0.000" id="Noise_Tree" tiltsize="10.000">
+        <source url="media/tree.mp3"/>
+      </sound>
+      <sound startmutedmobile="0" nodechangekeep="0" tilt="-25.400" level="1.000" mode="3" pan="-154.770" pansize="10.000" loop="0" field="90.000" ambientlevel="0.000" id="Noise_Bird" tiltsize="10.000">
+        <source url="media/Bird.mp3"/>
+      </sound>
+      <sound startmutedmobile="0" nodechangekeep="0" tilt="-29.960" level="0.700" mode="3" pan="-290.390" pansize="10.000" loop="0" field="90.000" ambientlevel="0.000" id="Noise_Bird" tiltsize="10.000">
+        <source url="media/Bird.mp3"/>
+      </sound>
+      <sound startmutedmobile="0" nodechangekeep="0" tilt="-14.060" level="0.500" mode="3" pan="-347.030" pansize="10.000" loop="0" field="90.000" ambientlevel="0.000" id="Noise_Bird" tiltsize="10.000">
+        <source url="media/Bird.mp3"/>
+      </sound>
+      <sound startmutedmobile="0" nodechangekeep="0" tilt="-1.000" level="0.500" mode="0" pan="-1.000" pansize="10.000" loop="0" field="90.000" ambientlevel="0.000" id="_background" tiltsize="10.000">
+        <source url="media/bensound-energy.mp3"/>
+      </sound>
+      <image stretch="1.000" width="512" height="512" tilt="-17.750" rotx="0.000" clickmode="4" handcursor="1" pan="-358.140" id="RGF_OFFICE" fov="10.000" roty="0.000" rotz="0.000">
+        <source url="media/Main Office (3 Floors).png"/>
+      </image>
+      <image stretch="1.000" width="512" height="512" tilt="-6.550" rotx="0.000" clickmode="4" handcursor="1" pan="-15.820" id="RGF_BLOCK 2" fov="7.000" roty="0.000" rotz="0.000">
+        <source url="media/Factory Block 02.png"/>
+      </image>
+      <image stretch="1.000" width="512" height="512" tilt="-3.920" rotx="0.000" clickmode="4" handcursor="1" pan="-343.880" id="RGF_BLOCK 3" fov="5.000" roty="0.000" rotz="0.000">
+        <source url="media/Factory Block 03.png"/>
+      </image>
+      <image stretch="1.000" width="512" height="512" tilt="-3.080" rotx="0.000" clickmode="4" handcursor="1" pan="-52.410" id="RGF_MTN" fov="5.000" roty="0.000" rotz="0.000">
+        <source url="media/MTN Building.png"/>
+      </image>
+      <image stretch="1.000" width="512" height="512" tilt="-4.060" rotx="0.000" clickmode="4" handcursor="1" pan="-59.950" id="RGF_TRANSFORMAER" fov="5.000" roty="0.000" rotz="0.000">
+        <source url="media/Transformer.png"/>
+      </image>
+      <image stretch="1.000" width="512" height="512" tilt="-0.790" rotx="0.000" clickmode="4" handcursor="1" pan="-22.370" id="RGF_WAREHOUSE" fov="5.000" roty="0.000" rotz="0.000">
+        <source url="media/Warehouse.png"/>
+      </image>
+      <image stretch="1.000" width="512" height="512" tilt="-2.500" rotx="0.000" clickmode="4" handcursor="1" pan="-35.290" id="RGF_MOTOR PARKING" fov="3.000" roty="0.000" rotz="0.000">
+        <source url="media/Motor Parking.png"/>
+      </image>
+      <image stretch="1.000" width="512" height="512" tilt="-3.890" rotx="0.000" clickmode="4" handcursor="1" pan="-40.720" id="RGF_R&amp;D" fov="5.000" roty="0.000" rotz="0.000">
+        <source url="media/R&amp;D Building.png"/>
+      </image>
+      <image stretch="1.000" width="512" height="512" tilt="-3.460" rotx="0.000" clickmode="4" handcursor="1" pan="-26.320" id="Element01" fov="3.000" roty="0.000" rotz="0.000">
+        <source url="media/Canteen (2 Floors).png"/>
+      </image>
+      <image stretch="1.000" width="512" height="512" tilt="-6.560" rotx="0.000" clickmode="4" handcursor="1" pan="-359.670" id="Element02" fov="5.000" roty="0.000" rotz="0.000">
+        <source url="media/Utility House 02.png"/>
+      </image>
+      <image stretch="1.000" width="512" height="512" tilt="-4.340" rotx="0.000" clickmode="4" handcursor="1" pan="-12.460" id="RGF_COFFEE" fov="4.000" roty="0.000" rotz="0.000">
+        <source url="media/COFFEE HOUSE.png"/>
+      </image>
+      <lensflare alpha="80.000" tilt="60.620" type="1" pan="-249.780" id="Lensflare01" color="0xffffff" blinding="50.000"/>
+    </media>
+    <transition blendtime="1" blendcolor="0x000000" zoomin="0" zoomspeed="2" type="diptocolor" enabled="1" zoomfov="20" zoomoutpause="1" zoomout="0" softedge="0"/>
+    <animation useinautorotation="1" syncanimationwithvideo="1" animsequence="Animation01"/>
+    <control simulatemass="1" dblclickfullscreen="0" invertcontrol="1" contextfullscreen="1" sensitivity="8" lockedwheel="0" invertwheel="0" lockedmouse="0" speedwheel="1" rubberband="0" lockedkeyboard="0" hideabout="0" lockedkeyboardzoom="0" contextprojections="0"/>
+  </panorama>
+  <panorama id="node2">
+    <input levelbiashidpi="1.000" levelbias="0.400" levelingroll="0" width="2048" overlap="1" height="2048" leveltileurl="tiles/node2/cf_%c/l_%l/c_%x/tile_%y.jpg" leveltilesize="510" levelingpitch="0">
+      <level width="2048" predecode="0" height="2048" preload="0"/>
+      <level width="1024" predecode="0" height="1024" preload="0"/>
+      <level width="512" predecode="0" height="512" preload="0"/>
+      <level width="256" predecode="1" height="256" preload="1"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view pannorth="-61.2995" fovmode="0">
+      <start projection="4" tilt="-36.8298" pan="-2.3115" fov="70"/>
+      <flyin projection="9" tilt="-90" pan="0" fov="170"/>
+      <min tilt="-90" pan="0" fovpixel="2"/>
+      <max fovfisheye="360" fovstereographic="270" tilt="90" pan="360" fov="120" scaletofit="1"/>
+    </view>
+    <userdata author="TLC" comment="" longitude="" description="" source="" title="RGF_VIEW 2" customnodeid="" copyright="TLC" latitude="" datetime="[23 Aug 2019]" info="" tags="REGENT GAMENT 360">
+      <mapcoords mapid="FloorPlan03" x="0.358154" y_floorplan_percent="17.2917" y="-0.27356" x_floorplan_percent="12.7344"/>
+    </userdata>
+    <hotspots width="180" height="20" wordwrap="1">
+      <label width="180" height="20" textalpha="1" bordercolor="0x000000" backgroundcolor="0xffffff" borderalpha="1" enabled="1" borderradius="1" wordwrap="1" backgroundalpha="1" border="1" background="1" textcolor="0x000000"/>
+      <polystyle bordercolor="0x0000ff" mode="0" backgroundcolor="0x0000ff" borderalpha="1" handcursor="1" backgroundalpha="0.25098"/>
+      <hotspot description="" skinid="ht_node" title="RGF_VIEW 1" url="{node1}" tilt="0" pan="-149.464" target="-79.5746/0/70" id="Point01"/>
+      <hotspot description="" skinid="ht_node" title="RGF_VIEW 3" url="{node3}" tilt="0" pan="-78.5964" target="-33.2657/0/70" id="Point02"/>
+      <hotspot description="" skinid="ht_node" title="RGF_VIEW 4" url="{node4}" tilt="0" pan="0" target="$fwd" id="Point03"/>
+      <hotspot description="" skinid="ht_node" title="RGF_VIEW 5" url="{node5}" tilt="0" pan="0" target="$fwd" id="Point04"/>
+      <hotspot description="" skinid="ht_node" title="RGF_VIEW 6" url="{node6}" tilt="0" pan="0" target="$fwd" id="Point05"/>
+    </hotspots>
+    <media>
+      <sound startmutedmobile="0" nodechangekeep="0" tilt="-11.900" level="1.000" mode="2" pan="-25.970" pansize="10.000" loop="0" field="90.000" ambientlevel="0.000" id="Noise_Human " tiltsize="10.000">
+        <source url="media/human.mp3"/>
+      </sound>
+      <sound startmutedmobile="0" nodechangekeep="0" tilt="-51.690" level="1.000" mode="2" pan="-351.650" pansize="10.000" loop="0" field="90.000" ambientlevel="0.000" id="Noise_Human " tiltsize="10.000">
+        <source url="media/human.mp3"/>
+      </sound>
+      <sound startmutedmobile="0" nodechangekeep="0" tilt="-25.690" level="1.000" mode="2" pan="-37.470" pansize="10.000" loop="0" field="90.000" ambientlevel="0.000" id="Noise_Human " tiltsize="10.000">
+        <source url="media/human.mp3"/>
+      </sound>
+      <sound startmutedmobile="0" nodechangekeep="0" tilt="-39.480" level="0.700" mode="2" pan="-191.970" pansize="10.000" loop="0" field="90.000" ambientlevel="0.000" id="Noise_Car" tiltsize="10.000">
+        <source url="media/car.mp3"/>
+      </sound>
+      <sound startmutedmobile="0" nodechangekeep="0" tilt="-46.090" level="1.000" mode="2" pan="-229.530" pansize="10.000" loop="0" field="90.000" ambientlevel="0.000" id="Noise_Bird" tiltsize="10.000">
+        <source url="media/Bird.mp3"/>
+      </sound>
+      <sound startmutedmobile="0" nodechangekeep="0" tilt="-20.760" level="1.000" mode="3" pan="-39.390" pansize="10.000" loop="0" field="90.000" ambientlevel="0.000" id="Noise_Tree" tiltsize="10.000">
+        <source url="media/tree.mp3"/>
+      </sound>
+      <sound startmutedmobile="0" nodechangekeep="0" tilt="-45.380" level="1.000" mode="3" pan="-73.060" pansize="10.000" loop="0" field="90.000" ambientlevel="0.000" id="Noise_Tree" tiltsize="10.000">
+        <source url="media/tree.mp3"/>
+      </sound>
+      <sound startmutedmobile="0" nodechangekeep="0" tilt="-48.340" level="1.000" mode="3" pan="-259.570" pansize="10.000" loop="0" field="90.000" ambientlevel="0.000" id="Noise_Tree" tiltsize="10.000">
+        <source url="media/tree.mp3"/>
+      </sound>
+      <sound startmutedmobile="0" nodechangekeep="0" tilt="-52.390" level="1.000" mode="3" pan="-195.200" pansize="10.000" loop="0" field="90.000" ambientlevel="0.000" id="Noise_Tree" tiltsize="10.000">
+        <source url="media/tree.mp3"/>
+      </sound>
+      <sound startmutedmobile="0" nodechangekeep="0" tilt="-1.000" level="0.500" mode="0" pan="-1.000" pansize="10.000" loop="0" field="90.000" ambientlevel="0.000" id="_background" tiltsize="10.000">
+        <source url="media/bensound-energy.mp3"/>
+      </sound>
+      <image stretch="1.000" width="512" height="512" tilt="-5.510" rotx="0.000" clickmode="4" handcursor="1" pan="-32.980" id="RGF_OFFICE" fov="7.000" roty="0.000" rotz="0.000">
+        <source url="media/Main Office (3 Floors).png"/>
+      </image>
+      <image stretch="1.000" width="512" height="512" tilt="-6.160" rotx="0.000" clickmode="4" handcursor="1" pan="-14.540" id="RGF_BLOCK 2" fov="10.000" roty="0.000" rotz="0.000">
+        <source url="media/Factory Block 02.png"/>
+      </image>
+      <image stretch="1.000" width="512" height="512" tilt="-22.830" rotx="0.000" clickmode="4" handcursor="1" pan="-325.020" id="RGF_BLOCK 3" fov="12.000" roty="0.000" rotz="0.000">
+        <source url="media/Factory Block 03.png"/>
+      </image>
+      <image stretch="1.000" width="512" height="512" tilt="-1.390" rotx="0.000" clickmode="4" handcursor="1" pan="-321.060" id="RGF_WAREHOUSE" fov="5.000" roty="0.000" rotz="0.000">
+        <source url="media/Warehouse.png"/>
+      </image>
+      <image stretch="1.000" width="512" height="512" tilt="-3.300" rotx="0.000" clickmode="4" handcursor="1" pan="-342.300" id="RGF_MOTOR PARKING" fov="3.000" roty="0.000" rotz="0.000">
+        <source url="media/Motor Parking.png"/>
+      </image>
+      <image stretch="1.000" width="512" height="512" tilt="-3.020" rotx="0.000" clickmode="4" handcursor="1" pan="-359.800" id="RGF_MTN" fov="5.000" roty="0.000" rotz="0.000">
+        <source url="media/MTN Building.png"/>
+      </image>
+      <image stretch="1.000" width="512" height="512" tilt="-3.700" rotx="0.000" clickmode="4" handcursor="1" pan="-6.520" id="RGF_TRANSFORMAER" fov="4.000" roty="0.000" rotz="0.000">
+        <source url="media/Transformer.png"/>
+      </image>
+      <image stretch="1.000" width="512" height="512" tilt="-4.030" rotx="0.000" clickmode="4" handcursor="1" pan="-350.740" id="RGF_R&amp;D" fov="5.000" roty="0.000" rotz="0.000">
+        <source url="media/R&amp;D Building.png"/>
+      </image>
+      <image stretch="1.000" width="512" height="512" tilt="-4.750" rotx="0.000" clickmode="4" handcursor="1" pan="-339.110" id="Element01" fov="3.000" roty="0.000" rotz="0.000">
+        <source url="media/Canteen (2 Floors).png"/>
+      </image>
+      <image stretch="1.000" width="512" height="512" tilt="-5.230" rotx="0.000" clickmode="4" handcursor="1" pan="-331.740" id="RGF_COFFEE" fov="4.000" roty="0.000" rotz="0.000">
+        <source url="media/COFFEE HOUSE.png"/>
+      </image>
+      <image stretch="1.000" width="512" height="512" tilt="-11.300" rotx="0.000" clickmode="4" handcursor="1" pan="-348.760" id="Element02" fov="5.000" roty="0.000" rotz="0.000">
+        <source url="media/Utility House 02.png"/>
+      </image>
+      <lensflare alpha="80.000" tilt="59.650" type="1" pan="-163.810" id="Lensflare01" color="0xffffff" blinding="50.000"/>
+    </media>
+    <transition blendtime="1" blendcolor="0x000000" zoomin="0" zoomspeed="2" type="diptocolor" enabled="1" zoomfov="20" zoomoutpause="1" zoomout="0" softedge="0"/>
+    <animation useinautorotation="1" syncanimationwithvideo="1" animsequence="Animation01"/>
+    <control simulatemass="1" dblclickfullscreen="0" invertcontrol="1" contextfullscreen="1" sensitivity="8" lockedwheel="0" invertwheel="0" lockedmouse="0" speedwheel="1" rubberband="0" lockedkeyboard="0" hideabout="0" lockedkeyboardzoom="0" contextprojections="0"/>
+  </panorama>
+  <panorama id="node3">
+    <input levelbiashidpi="1.000" levelbias="0.400" levelingroll="0" width="2048" overlap="1" height="2048" leveltileurl="tiles/node3/cf_%c/l_%l/c_%x/tile_%y.jpg" leveltilesize="510" levelingpitch="0">
+      <level width="2048" predecode="0" height="2048" preload="0"/>
+      <level width="1024" predecode="0" height="1024" preload="0"/>
+      <level width="512" predecode="0" height="512" preload="0"/>
+      <level width="256" predecode="1" height="256" preload="1"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view pannorth="-131.242" fovmode="0">
+      <start projection="4" tilt="-53.785" pan="-154.148" fov="70"/>
+      <flyin projection="9" tilt="-90" pan="0" fov="170"/>
+      <min tilt="-90" pan="0" fovpixel="2"/>
+      <max fovfisheye="360" fovstereographic="270" tilt="90" pan="360" fov="120" scaletofit="1"/>
+    </view>
+    <userdata author="TLC" comment="" longitude="" description="" source="" title="RGF_VIEW 3" customnodeid="" copyright="TLC" latitude="" datetime="[23 Aug 2019]" info="" tags="REGENT GAMENT 360">
+      <mapcoords mapid="FloorPlan03" x="0.97998" y_floorplan_percent="42.2222" y="-0.667969" x_floorplan_percent="34.8438"/>
+    </userdata>
+    <hotspots width="180" height="20" wordwrap="1">
+      <label width="180" height="20" textalpha="1" bordercolor="0x000000" backgroundcolor="0xffffff" borderalpha="1" enabled="1" borderradius="1" wordwrap="1" backgroundalpha="1" border="1" background="1" textcolor="0x000000"/>
+      <polystyle bordercolor="0x0000ff" mode="0" backgroundcolor="0x0000ff" borderalpha="1" handcursor="1" backgroundalpha="0.25098"/>
+      <hotspot description="" skinid="ht_node" title="RGF_VIEW 2" url="{node2}" tilt="0" pan="101.404" target="-149.464/0/70" id="Point01"/>
+      <hotspot description="" skinid="ht_node" title="RGF_VIEW 6" url="{node6}" tilt="0" pan="-166.331" target="$fwd" id="Point03"/>
+      <hotspot description="" skinid="ht_node" title="RGF_VIEW 5" url="{node5}" tilt="0" pan="0" target="$fwd" id="Point05"/>
+      <hotspot description="" skinid="ht_node" title="RGF_VIEW 4" url="{node4}" tilt="0" pan="39.3025" target="66.7993/0/70" id="Point02"/>
+      <hotspot description="" skinid="ht_node" title="RGF_VIEW 1" url="{node1}" tilt="0" pan="-143.879" target="$fwd" id="Point04"/>
+    </hotspots>
+    <media>
+      <sound startmutedmobile="0" nodechangekeep="0" tilt="-53.910" level="1.000" mode="3" pan="-154.890" pansize="10.000" loop="-1" field="90.000" ambientlevel="0.000" id="Noise_Human " tiltsize="10.000">
+        <source url="media/human.mp3"/>
+      </sound>
+      <sound startmutedmobile="0" nodechangekeep="1" tilt="-33.040" level="1.000" mode="3" pan="-117.920" pansize="10.000" loop="0" field="90.000" ambientlevel="0.000" id="Noise_Human " tiltsize="10.000">
+        <source url="media/human.mp3"/>
+      </sound>
+      <sound startmutedmobile="0" nodechangekeep="0" tilt="-34.010" level="0.700" mode="3" pan="-356.630" pansize="10.000" loop="0" field="90.000" ambientlevel="0.000" id="Noise_Human " tiltsize="10.000">
+        <source url="media/human.mp3"/>
+      </sound>
+      <sound startmutedmobile="0" nodechangekeep="0" tilt="-27.770" level="0.700" mode="3" pan="-355.780" pansize="10.000" loop="0" field="90.000" ambientlevel="0.000" id="Noise_Bird" tiltsize="10.000">
+        <source url="media/Bird.mp3"/>
+      </sound>
+      <sound startmutedmobile="0" nodechangekeep="1" tilt="-33.260" level="0.700" mode="3" pan="-123.690" pansize="10.000" loop="0" field="90.000" ambientlevel="0.000" id="Noise_Bird" tiltsize="10.000">
+        <source url="media/Bird.mp3"/>
+      </sound>
+      <sound startmutedmobile="0" nodechangekeep="0" tilt="-35.110" level="0.700" mode="3" pan="-215.900" pansize="10.000" loop="0" field="90.000" ambientlevel="0.000" id="Noise_Bird" tiltsize="10.000">
+        <source url="media/Bird.mp3"/>
+      </sound>
+      <sound startmutedmobile="0" nodechangekeep="0" tilt="-30.570" level="0.500" mode="3" pan="-185.360" pansize="10.000" loop="0" field="90.000" ambientlevel="0.000" id="Noise_Bird" tiltsize="10.000">
+        <source url="media/Bird.mp3"/>
+      </sound>
+      <sound startmutedmobile="0" nodechangekeep="0" tilt="-16.210" level="0.400" mode="3" pan="-345.660" pansize="10.000" loop="0" field="90.000" ambientlevel="0.000" id="Noise_Bird" tiltsize="10.000">
+        <source url="media/Bird.mp3"/>
+      </sound>
+      <sound startmutedmobile="0" nodechangekeep="0" tilt="-43.300" level="1.000" mode="3" pan="-0.380" pansize="10.000" loop="0" field="90.000" ambientlevel="0.000" id="Noise_Tree" tiltsize="10.000">
+        <source url="media/tree.mp3"/>
+      </sound>
+      <sound startmutedmobile="0" nodechangekeep="0" tilt="-26.850" level="1.000" mode="3" pan="-289.580" pansize="10.000" loop="0" field="90.000" ambientlevel="0.000" id="Noise_Tree" tiltsize="10.000">
+        <source url="media/tree.mp3"/>
+      </sound>
+      <sound startmutedmobile="0" nodechangekeep="0" tilt="-27.070" level="1.000" mode="3" pan="-238.900" pansize="10.000" loop="0" field="90.000" ambientlevel="0.000" id="Noise_Tree" tiltsize="10.000">
+        <source url="media/tree.mp3"/>
+      </sound>
+      <sound startmutedmobile="0" nodechangekeep="0" tilt="-32.660" level="1.000" mode="3" pan="-192.830" pansize="10.000" loop="0" field="90.000" ambientlevel="0.000" id="Noise_Tree" tiltsize="10.000">
+        <source url="media/tree.mp3"/>
+      </sound>
+      <sound startmutedmobile="0" nodechangekeep="0" tilt="-49.290" level="1.000" mode="3" pan="-174.940" pansize="10.000" loop="0" field="90.000" ambientlevel="0.000" id="Noise_Tree" tiltsize="10.000">
+        <source url="media/tree.mp3"/>
+      </sound>
+      <sound startmutedmobile="0" nodechangekeep="1" tilt="-35.180" level="1.000" mode="3" pan="-150.000" pansize="10.000" loop="0" field="90.000" ambientlevel="0.000" id="Noise_Tree" tiltsize="10.000">
+        <source url="media/tree.mp3"/>
+      </sound>
+      <sound startmutedmobile="0" nodechangekeep="0" tilt="-30.230" level="1.000" mode="3" pan="-79.680" pansize="10.000" loop="0" field="90.000" ambientlevel="0.000" id="Noise_Tree" tiltsize="10.000">
+        <source url="media/tree.mp3"/>
+      </sound>
+      <sound startmutedmobile="0" nodechangekeep="0" tilt="-17.890" level="1.000" mode="3" pan="-28.660" pansize="10.000" loop="0" field="90.000" ambientlevel="0.000" id="Noise_Tree" tiltsize="10.000">
+        <source url="media/tree.mp3"/>
+      </sound>
+      <sound startmutedmobile="0" nodechangekeep="0" tilt="-14.340" level="1.000" mode="3" pan="-2.250" pansize="10.000" loop="0" field="90.000" ambientlevel="0.000" id="Noise_Tree" tiltsize="10.000">
+        <source url="media/tree.mp3"/>
+      </sound>
+      <sound startmutedmobile="0" nodechangekeep="0" tilt="-21.540" level="1.000" mode="3" pan="-321.410" pansize="10.000" loop="0" field="90.000" ambientlevel="0.000" id="Noise_Tree" tiltsize="10.000">
+        <source url="media/tree.mp3"/>
+      </sound>
+      <sound startmutedmobile="0" nodechangekeep="0" tilt="-1.000" level="0.500" mode="0" pan="-1.000" pansize="10.000" loop="0" field="90.000" ambientlevel="0.000" id="_background" tiltsize="10.000">
+        <source url="media/bensound-energy.mp3"/>
+        <source url="media/human.mp3"/>
+      </sound>
+      <image stretch="1.000" width="512" height="512" tilt="-25.350" rotx="0.000" clickmode="4" handcursor="1" pan="-114.960" id="RGF_OFFICE" fov="10.000" roty="0.000" rotz="0.000">
+        <source url="media/Main Office (3 Floors).png"/>
+      </image>
+      <image stretch="1.000" width="512" height="512" tilt="-27.960" rotx="0.000" clickmode="4" handcursor="1" pan="-67.440" id="RGF_BLOCK 2" fov="12.000" roty="0.000" rotz="0.000">
+        <source url="media/Factory Block 02.png"/>
+      </image>
+      <image stretch="1.000" width="512" height="512" tilt="-28.700" rotx="0.000" clickmode="4" handcursor="1" pan="-269.660" id="RGF_BLOCK 3" fov="10.000" roty="0.000" rotz="0.000">
+        <source url="media/Factory Block 03.png"/>
+      </image>
+      <image stretch="1.000" width="512" height="512" tilt="-8.200" rotx="0.000" clickmode="4" handcursor="1" pan="-349.640" id="RGF_WAREHOUSE" fov="5.000" roty="0.000" rotz="0.000">
+        <source url="media/Warehouse.png"/>
+      </image>
+      <image stretch="1.000" width="512" height="512" tilt="-11.240" rotx="0.000" clickmode="4" handcursor="1" pan="-15.830" id="RGF_MOTOR PARKING" fov="5.000" roty="0.000" rotz="0.000">
+        <source url="media/Motor Parking.png"/>
+      </image>
+      <image stretch="1.000" width="512" height="512" tilt="-13.560" rotx="0.000" clickmode="4" handcursor="1" pan="-40.340" id="RGF_MTN" fov="6.000" roty="0.000" rotz="0.000">
+        <source url="media/MTN Building.png"/>
+      </image>
+      <image stretch="1.000" width="512" height="512" tilt="-15.900" rotx="0.000" clickmode="4" handcursor="1" pan="-51.280" id="RGF_TRANSFORMAER" fov="5.000" roty="0.000" rotz="0.000">
+        <source url="media/Transformer.png"/>
+      </image>
+      <image stretch="1.000" width="512" height="512" tilt="-17.170" rotx="0.000" clickmode="4" handcursor="1" pan="-28.790" id="RGF_R&amp;D" fov="6.000" roty="0.000" rotz="0.000">
+        <source url="media/R&amp;D Building.png"/>
+      </image>
+      <image stretch="1.000" width="512" height="512" tilt="-22.180" rotx="0.000" clickmode="4" handcursor="1" pan="-8.470" id="Element01" fov="6.000" roty="0.000" rotz="0.000">
+        <source url="media/Canteen (2 Floors).png"/>
+      </image>
+      <image stretch="1.000" width="512" height="512" tilt="-21.780" rotx="0.000" clickmode="4" handcursor="1" pan="-351.320" id="RGF_COFFEE" fov="5.000" roty="0.000" rotz="0.000">
+        <source url="media/COFFEE HOUSE.png"/>
+      </image>
+      <image stretch="1.000" width="512" height="512" tilt="-58.020" rotx="0.000" clickmode="4" handcursor="1" pan="-186.070" id="Element02" fov="9.770" roty="-10.000" rotz="-6.000">
+        <source url="media/Utility House 02.png"/>
+      </image>
+      <image stretch="1.000" width="512" height="512" tilt="-22.400" rotx="0.000" clickmode="4" handcursor="1" pan="-338.300" id="RGF_FOOTBALL" fov="5.000" roty="0.000" rotz="0.000">
+        <source url="media/Football Pitch.png"/>
+      </image>
+      <lensflare alpha="80.000" tilt="60.440" type="1" pan="-203.520" id="Lensflare01" color="0xffffff" blinding="50.000"/>
+    </media>
+    <transition blendtime="1" blendcolor="0x000000" zoomin="0" zoomspeed="2" type="diptocolor" enabled="1" zoomfov="20" zoomoutpause="1" zoomout="0" softedge="0"/>
+    <animation useinautorotation="1" syncanimationwithvideo="1" animsequence="Animation01"/>
+    <control simulatemass="1" dblclickfullscreen="0" invertcontrol="1" contextfullscreen="1" sensitivity="8" lockedwheel="0" invertwheel="0" lockedmouse="0" speedwheel="1" rubberband="0" lockedkeyboard="0" hideabout="0" lockedkeyboardzoom="0" contextprojections="0"/>
+  </panorama>
+  <panorama id="node4">
+    <input levelbiashidpi="1.000" levelbias="0.400" levelingroll="0" width="2048" overlap="1" height="2048" leveltileurl="tiles/node4/cf_%c/l_%l/c_%x/tile_%y.jpg" leveltilesize="510" levelingpitch="0">
+      <level width="2048" predecode="0" height="2048" preload="0"/>
+      <level width="1024" predecode="0" height="1024" preload="0"/>
+      <level width="512" predecode="0" height="512" preload="0"/>
+      <level width="256" predecode="1" height="256" preload="1"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view pannorth="0" fovmode="0">
+      <start projection="4" tilt="-42.6766" pan="85.3205" fov="70"/>
+      <flyin projection="9" tilt="-90" pan="0" fov="170"/>
+      <min tilt="-90" pan="0" fovpixel="2"/>
+      <max fovfisheye="360" fovstereographic="270" tilt="90" pan="360" fov="120" scaletofit="1"/>
+    </view>
+    <userdata author="TLC" comment="" longitude="" description="" source="" title="RGF_VIEW 4" customnodeid="" copyright="TLC" latitude="" datetime="[23 Aug 2019]" info="" tags="REGENT GAMENT 360">
+      <mapcoords mapid="FloorPlan03" x="1.55676" y_floorplan_percent="12.1528" y="-0.192261" x_floorplan_percent="55.3516"/>
+    </userdata>
+    <hotspots width="180" height="20" wordwrap="1">
+      <label width="180" height="20" textalpha="1" bordercolor="0x000000" backgroundcolor="0xffffff" borderalpha="1" enabled="1" borderradius="1" wordwrap="1" backgroundalpha="1" border="1" background="1" textcolor="0x000000"/>
+      <polystyle bordercolor="0x0000ff" mode="0" backgroundcolor="0x0000ff" borderalpha="1" handcursor="1" backgroundalpha="0.25098"/>
+      <hotspot description="" skinid="ht_node" title="RGF_VIEW 5" url="{node5}" tilt="0" pan="-133.446" target="126.678/0/70" id="Point02"/>
+      <hotspot description="" skinid="ht_node" title="RGF_VIEW 2" url="{node2}" tilt="0" pan="0" target="$fwd" id="Point04"/>
+      <hotspot description="" skinid="ht_node" title="RGF_VIEW 6" url="{node6}" tilt="0" pan="0" target="$fwd" id="Point05"/>
+      <hotspot description="" skinid="ht_node" title="RGF_VIEW 3" url="{node3}" tilt="0" pan="-9.45549" target="-212.598/0/70" id="Point01"/>
+      <hotspot description="" skinid="ht_node" title="RGF_VIEW 1" url="{node1}" tilt="0" pan="0" target="$fwd" id="Point03"/>
+    </hotspots>
+    <media>
+      <sound startmutedmobile="0" nodechangekeep="0" tilt="-28.810" level="0.700" mode="3" pan="-320.520" pansize="10.000" loop="0" field="90.000" ambientlevel="0.000" id="Noise_Bird" tiltsize="10.000">
+        <source url="media/Bird.mp3"/>
+      </sound>
+      <sound startmutedmobile="0" nodechangekeep="0" tilt="-56.850" level="0.700" mode="3" pan="-193.990" pansize="10.000" loop="0" field="90.000" ambientlevel="0.000" id="Noise_Bird" tiltsize="10.000">
+        <source url="media/Bird.mp3"/>
+      </sound>
+      <sound startmutedmobile="0" nodechangekeep="0" tilt="-30.860" level="0.700" mode="3" pan="-60.650" pansize="10.000" loop="0" field="90.000" ambientlevel="0.000" id="Noise_Bird" tiltsize="10.000">
+        <source url="media/Bird.mp3"/>
+      </sound>
+      <sound startmutedmobile="0" nodechangekeep="0" tilt="-41.880" level="0.700" mode="3" pan="-284.640" pansize="10.000" loop="0" field="90.000" ambientlevel="0.000" id="Noise_Human " tiltsize="10.000">
+        <source url="media/human.mp3"/>
+        <source url="media/human.mp3"/>
+      </sound>
+      <sound startmutedmobile="0" nodechangekeep="0" tilt="-26.030" level="1.000" mode="3" pan="-3.250" pansize="10.000" loop="0" field="90.000" ambientlevel="0.000" id="Noise_Tree" tiltsize="10.000">
+        <source url="media/tree.mp3"/>
+      </sound>
+      <sound startmutedmobile="0" nodechangekeep="0" tilt="-16.010" level="1.000" mode="3" pan="-319.910" pansize="10.000" loop="0" field="90.000" ambientlevel="0.000" id="Noise_Tree" tiltsize="10.000">
+        <source url="media/tree.mp3"/>
+      </sound>
+      <sound startmutedmobile="0" nodechangekeep="0" tilt="-17.990" level="1.000" mode="3" pan="-284.240" pansize="10.000" loop="0" field="90.000" ambientlevel="0.000" id="Noise_Tree" tiltsize="10.000">
+        <source url="media/tree.mp3"/>
+      </sound>
+      <sound startmutedmobile="0" nodechangekeep="0" tilt="-66.090" level="1.000" mode="3" pan="-330.780" pansize="10.000" loop="0" field="90.000" ambientlevel="0.000" id="Noise_Tree" tiltsize="10.000">
+        <source url="media/tree.mp3"/>
+      </sound>
+      <sound startmutedmobile="0" nodechangekeep="0" tilt="-26.680" level="1.000" mode="3" pan="-213.900" pansize="10.000" loop="0" field="90.000" ambientlevel="0.000" id="Noise_Tree" tiltsize="10.000">
+        <source url="media/tree.mp3"/>
+      </sound>
+      <sound startmutedmobile="0" nodechangekeep="0" tilt="-12.300" level="1.000" mode="3" pan="-55.520" pansize="10.000" loop="0" field="90.000" ambientlevel="0.000" id="Noise_Tree" tiltsize="10.000">
+        <source url="media/tree.mp3"/>
+      </sound>
+      <sound startmutedmobile="0" nodechangekeep="0" tilt="-45.310" level="1.000" mode="3" pan="-98.060" pansize="10.000" loop="0" field="90.000" ambientlevel="0.000" id="Noise_Tree" tiltsize="10.000">
+        <source url="media/tree.mp3"/>
+      </sound>
+      <sound startmutedmobile="0" nodechangekeep="0" tilt="-38.770" level="0.500" mode="3" pan="-279.890" pansize="10.000" loop="0" field="90.000" ambientlevel="0.000" id="Noise_Car" tiltsize="10.000">
+        <source url="media/car.mp3"/>
+        <source url="media/car.mp3"/>
+      </sound>
+      <sound startmutedmobile="0" nodechangekeep="0" tilt="-33.130" level="0.500" mode="3" pan="-206.470" pansize="10.000" loop="0" field="90.000" ambientlevel="0.000" id="Noise_Car" tiltsize="10.000">
+        <source url="media/car.mp3"/>
+      </sound>
+      <sound startmutedmobile="0" nodechangekeep="0" tilt="-58.800" level="0.500" mode="3" pan="-100.170" pansize="10.000" loop="0" field="90.000" ambientlevel="0.000" id="Noise_Car" tiltsize="10.000">
+        <source url="media/car.mp3"/>
+      </sound>
+      <sound startmutedmobile="0" nodechangekeep="0" tilt="-24.390" level="0.500" mode="3" pan="-64.000" pansize="10.000" loop="0" field="90.000" ambientlevel="0.000" id="Noise_Car" tiltsize="10.000">
+        <source url="media/car.mp3"/>
+      </sound>
+      <sound startmutedmobile="0" nodechangekeep="0" tilt="-29.050" level="1.000" mode="3" pan="-347.600" pansize="10.000" loop="0" field="90.000" ambientlevel="0.000" id="Noise_Human " tiltsize="10.000">
+        <source url="media/human.mp3"/>
+      </sound>
+      <sound startmutedmobile="0" nodechangekeep="0" tilt="-35.120" level="1.000" mode="3" pan="-286.360" pansize="10.000" loop="0" field="90.000" ambientlevel="0.000" id="Noise_Human " tiltsize="10.000">
+        <source url="media/human.mp3"/>
+      </sound>
+      <sound startmutedmobile="0" nodechangekeep="0" tilt="-20.920" level="0.500" mode="3" pan="-309.360" pansize="10.000" loop="0" field="90.000" ambientlevel="0.000" id="Noise_Human " tiltsize="10.000">
+        <source url="media/human.mp3"/>
+      </sound>
+      <sound startmutedmobile="0" nodechangekeep="0" tilt="-1.000" level="0.500" mode="0" pan="-1.000" pansize="10.000" loop="0" field="90.000" ambientlevel="0.000" id="_background" tiltsize="10.000">
+        <source url="media/bensound-energy.mp3"/>
+      </sound>
+      <image stretch="1.000" width="512" height="512" tilt="-5.890" rotx="0.000" clickmode="4" handcursor="1" pan="-19.370" id="RGF_OFFICE" fov="5.000" roty="0.000" rotz="0.000">
+        <source url="media/Main Office (3 Floors).png"/>
+      </image>
+      <image stretch="1.000" width="512" height="512" tilt="-8.590" rotx="0.000" clickmode="4" handcursor="1" pan="-355.000" id="RGF_BLOCK 2" fov="6.000" roty="0.000" rotz="0.000">
+        <source url="media/Factory Block 02.png"/>
+      </image>
+      <image stretch="1.000" width="512" height="512" tilt="-7.830" rotx="0.000" clickmode="4" handcursor="1" pan="-38.040" id="RGF_BLOCK 3" fov="7.000" roty="0.000" rotz="0.000">
+        <source url="media/Factory Block 03.png"/>
+      </image>
+      <image stretch="1.000" width="512" height="512" tilt="-25.720" rotx="0.000" clickmode="4" handcursor="1" pan="-264.400" id="RGF_WAREHOUSE" fov="12.000" roty="0.000" rotz="0.000">
+        <source url="media/Warehouse.png"/>
+      </image>
+      <image stretch="1.000" width="512" height="512" tilt="-10.670" rotx="0.000" clickmode="4" handcursor="1" pan="-285.430" id="RGF_MOTOR PARKING" fov="6.000" roty="0.000" rotz="0.000">
+        <source url="media/Motor Parking.png"/>
+      </image>
+      <image stretch="1.000" width="512" height="512" tilt="-7.800" rotx="0.000" clickmode="4" handcursor="1" pan="-327.550" id="RGF_MTN" fov="5.000" roty="0.000" rotz="0.000">
+        <source url="media/MTN Building.png"/>
+      </image>
+      <image stretch="1.000" width="512" height="512" tilt="-10.620" rotx="0.000" clickmode="4" handcursor="1" pan="-336.750" id="RGF_R&amp;D" fov="5.000" roty="0.000" rotz="0.000">
+        <source url="media/R&amp;D Building.png"/>
+      </image>
+      <image stretch="1.000" width="512" height="512" tilt="-14.930" rotx="0.000" clickmode="4" handcursor="1" pan="-330.190" id="Element01" fov="5.000" roty="0.000" rotz="0.000">
+        <source url="media/Canteen (2 Floors).png"/>
+      </image>
+      <image stretch="1.000" width="512" height="512" tilt="-22.860" rotx="0.000" clickmode="4" handcursor="1" pan="-354.430" id="Element02" fov="5.000" roty="0.000" rotz="0.000">
+        <source url="media/COFFEE HOUSE.png"/>
+      </image>
+      <image stretch="1.000" width="512" height="512" tilt="-13.050" rotx="0.000" clickmode="4" handcursor="1" pan="-11.210" id="RGF_COFFEE" fov="5.000" roty="0.000" rotz="0.000">
+        <source url="media/Utility House 02.png"/>
+      </image>
+      <image stretch="1.000" width="512" height="512" tilt="-38.510" rotx="0.000" clickmode="4" handcursor="1" pan="-3.960" id="RGF_FOOTBALL" fov="7.000" roty="0.000" rotz="0.000">
+        <source url="media/Football Pitch.png"/>
+      </image>
+      <lensflare alpha="80.000" tilt="59.710" type="1" pan="-71.490" id="Lensflare01" color="0xffffff" blinding="50.000"/>
+    </media>
+    <transition blendtime="1" blendcolor="0x000000" zoomin="0" zoomspeed="2" type="diptocolor" enabled="1" zoomfov="20" zoomoutpause="1" zoomout="0" softedge="0"/>
+    <animation useinautorotation="1" syncanimationwithvideo="1" animsequence="Animation01"/>
+    <control simulatemass="1" dblclickfullscreen="0" invertcontrol="1" contextfullscreen="1" sensitivity="8" lockedwheel="0" invertwheel="0" lockedmouse="0" speedwheel="1" rubberband="0" lockedkeyboard="0" hideabout="0" lockedkeyboardzoom="0" contextprojections="0"/>
+  </panorama>
+  <panorama id="node5">
+    <input levelbiashidpi="1.000" levelbias="0.400" levelingroll="0" width="2048" overlap="1" height="2048" leveltileurl="tiles/node5/cf_%c/l_%l/c_%x/tile_%y.jpg" leveltilesize="510" levelingpitch="0">
+      <level width="2048" predecode="0" height="2048" preload="0"/>
+      <level width="1024" predecode="0" height="1024" preload="0"/>
+      <level width="512" predecode="0" height="512" preload="0"/>
+      <level width="256" predecode="1" height="256" preload="1"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view pannorth="93.9866" fovmode="0">
+      <start projection="4" tilt="-37.5781" pan="-8.9663" fov="70"/>
+      <flyin projection="9" tilt="-90" pan="0" fov="170"/>
+      <min tilt="-90" pan="0" fovpixel="2"/>
+      <max fovfisheye="360" fovstereographic="270" tilt="90" pan="360" fov="120" scaletofit="1"/>
+    </view>
+    <userdata author="TLC" comment="" longitude="" description="" source="" title="RGF_VIEW 5" customnodeid="" copyright="TLC" latitude="" datetime="[23 Aug 2019]" info="" tags="REGENT GAMENT 360">
+      <mapcoords mapid="FloorPlan03" x="2.00281" y_floorplan_percent="70.5556" y="-1.11621" x_floorplan_percent="71.2109"/>
+    </userdata>
+    <hotspots width="180" height="20" wordwrap="1">
+      <label width="180" height="20" textalpha="1" bordercolor="0x000000" backgroundcolor="0xffffff" borderalpha="1" enabled="1" borderradius="1" wordwrap="1" backgroundalpha="1" border="1" background="1" textcolor="0x000000"/>
+      <polystyle bordercolor="0x0000ff" mode="0" backgroundcolor="0x0000ff" borderalpha="1" handcursor="1" backgroundalpha="0.25098"/>
+      <hotspot description="" skinid="ht_node" title="RGF_VIEW 4" url="{node4}" tilt="0" pan="46.554" target="146.734/0/70" id="Point01"/>
+      <hotspot description="" skinid="ht_node" title="RGF_VIEW 6" url="{node6}" tilt="0" pan="126.678" target="100.425/0/70" id="Point02"/>
+      <hotspot description="" skinid="ht_node" title="RGF_VIEW 1" url="{node1}" tilt="0" pan="0" target="$fwd" id="Point03"/>
+      <hotspot description="" skinid="ht_node" title="RGF_VIEW 2" url="{node2}" tilt="0" pan="0" target="$fwd" id="Point04"/>
+      <hotspot description="" skinid="ht_node" title="RGF_VIEW 3" url="{node3}" tilt="0" pan="0" target="$fwd" id="Point05"/>
+    </hotspots>
+    <media>
+      <sound startmutedmobile="0" nodechangekeep="0" tilt="-57.000" level="1.000" mode="3" pan="-75.300" pansize="10.000" loop="0" field="90.000" ambientlevel="0.000" id="Noise_Human " tiltsize="10.000">
+        <source url="media/human.mp3"/>
+      </sound>
+      <sound startmutedmobile="0" nodechangekeep="0" tilt="-36.990" level="0.700" mode="3" pan="-9.700" pansize="10.000" loop="0" field="90.000" ambientlevel="0.000" id="Noise_Bird" tiltsize="10.000">
+        <source url="media/Bird.mp3"/>
+      </sound>
+      <sound startmutedmobile="0" nodechangekeep="0" tilt="-42.590" level="0.700" mode="3" pan="-303.310" pansize="10.000" loop="0" field="90.000" ambientlevel="0.000" id="Noise_Bird" tiltsize="10.000">
+        <source url="media/Bird.mp3"/>
+      </sound>
+      <sound startmutedmobile="0" nodechangekeep="0" tilt="-28.990" level="0.700" mode="3" pan="-77.240" pansize="10.000" loop="0" field="90.000" ambientlevel="0.000" id="Noise_Bird" tiltsize="10.000">
+        <source url="media/Bird.mp3"/>
+      </sound>
+      <sound startmutedmobile="0" nodechangekeep="0" tilt="-24.840" level="0.700" mode="3" pan="-40.850" pansize="10.000" loop="0" field="90.000" ambientlevel="0.000" id="Noise_Bird" tiltsize="10.000">
+        <source url="media/Bird.mp3"/>
+      </sound>
+      <sound startmutedmobile="0" nodechangekeep="0" tilt="-35.910" level="1.000" mode="3" pan="-148.840" pansize="10.000" loop="0" field="90.000" ambientlevel="0.000" id="Noise_Water Flow" tiltsize="10.000">
+        <source url="media/water flow 01.mp3"/>
+      </sound>
+      <sound startmutedmobile="0" nodechangekeep="0" tilt="-21.650" level="0.500" mode="3" pan="-224.990" pansize="10.000" loop="0" field="90.000" ambientlevel="0.000" id="Noise_Water Flow" tiltsize="10.000">
+        <source url="media/water flow 01.mp3"/>
+      </sound>
+      <sound startmutedmobile="0" nodechangekeep="0" tilt="-15.440" level="0.500" mode="3" pan="-96.550" pansize="10.000" loop="0" field="90.000" ambientlevel="0.000" id="Noise_Water Flow" tiltsize="10.000">
+        <source url="media/water flow 01.mp3"/>
+      </sound>
+      <sound startmutedmobile="0" nodechangekeep="0" tilt="-25.550" level="0.500" mode="3" pan="-276.860" pansize="10.000" loop="0" field="90.000" ambientlevel="0.000" id="Noise_Water Flow" tiltsize="10.000">
+        <source url="media/water flow 01.mp3"/>
+      </sound>
+      <sound startmutedmobile="0" nodechangekeep="0" tilt="-30.380" level="1.000" mode="3" pan="-304.500" pansize="10.000" loop="0" field="90.000" ambientlevel="0.000" id="Noise_Human " tiltsize="10.000">
+        <source url="media/human.mp3"/>
+      </sound>
+      <sound startmutedmobile="0" nodechangekeep="0" tilt="-16.870" level="0.400" mode="3" pan="-350.470" pansize="10.000" loop="0" field="90.000" ambientlevel="0.000" id="Noise_Human " tiltsize="10.000">
+        <source url="media/human.mp3"/>
+      </sound>
+      <sound startmutedmobile="0" nodechangekeep="0" tilt="-21.960" level="1.000" mode="3" pan="-23.160" pansize="10.000" loop="0" field="90.000" ambientlevel="0.000" id="Noise_Human " tiltsize="10.000">
+        <source url="media/human.mp3"/>
+      </sound>
+      <sound startmutedmobile="0" nodechangekeep="0" tilt="-20.790" level="1.000" mode="3" pan="-66.350" pansize="10.000" loop="0" field="90.000" ambientlevel="0.000" id="Noise_Human " tiltsize="10.000">
+        <source url="media/human.mp3"/>
+      </sound>
+      <sound startmutedmobile="0" nodechangekeep="0" tilt="-48.380" level="1.000" mode="3" pan="-340.930" pansize="10.000" loop="0" field="90.000" ambientlevel="0.000" id="Noise_Tree" tiltsize="10.000">
+        <source url="media/tree.mp3"/>
+      </sound>
+      <sound startmutedmobile="0" nodechangekeep="0" tilt="-32.580" level="1.000" mode="3" pan="-262.160" pansize="10.000" loop="0" field="90.000" ambientlevel="0.000" id="Noise_Tree" tiltsize="10.000">
+        <source url="media/tree.mp3"/>
+      </sound>
+      <sound startmutedmobile="0" nodechangekeep="0" tilt="-73.380" level="1.000" mode="3" pan="-346.710" pansize="10.000" loop="0" field="90.000" ambientlevel="0.000" id="Noise_Tree" tiltsize="10.000">
+        <source url="media/tree.mp3"/>
+      </sound>
+      <sound startmutedmobile="0" nodechangekeep="0" tilt="-29.810" level="1.000" mode="3" pan="-111.810" pansize="10.000" loop="0" field="90.000" ambientlevel="0.000" id="Noise_Tree" tiltsize="10.000">
+        <source url="media/tree.mp3"/>
+      </sound>
+      <sound startmutedmobile="0" nodechangekeep="0" tilt="-34.530" level="1.000" mode="3" pan="-38.120" pansize="10.000" loop="0" field="90.000" ambientlevel="0.000" id="Noise_Tree" tiltsize="10.000">
+        <source url="media/tree.mp3"/>
+      </sound>
+      <sound startmutedmobile="0" nodechangekeep="0" tilt="-25.510" level="1.000" mode="3" pan="-315.920" pansize="10.000" loop="0" field="90.000" ambientlevel="0.000" id="Noise_Tree" tiltsize="10.000">
+        <source url="media/tree.mp3"/>
+      </sound>
+      <sound startmutedmobile="0" nodechangekeep="0" tilt="-60.070" level="1.000" mode="3" pan="-264.620" pansize="10.000" loop="0" field="90.000" ambientlevel="0.000" id="Noise_Tree" tiltsize="10.000">
+        <source url="media/tree.mp3"/>
+      </sound>
+      <sound startmutedmobile="0" nodechangekeep="0" tilt="-1.000" level="0.500" mode="0" pan="-1.000" pansize="10.000" loop="0" field="90.000" ambientlevel="0.000" id="_background" tiltsize="10.000">
+        <source url="media/bensound-energy.mp3"/>
+      </sound>
+      <image stretch="1.000" width="512" height="512" tilt="-8.240" rotx="0.000" clickmode="4" handcursor="1" pan="-330.500" id="RGF_OFFICE" fov="5.000" roty="0.000" rotz="0.000">
+        <source url="media/Main Office (3 Floors).png"/>
+      </image>
+      <image stretch="1.000" width="512" height="512" tilt="-14.660" rotx="0.000" clickmode="4" handcursor="1" pan="-335.710" id="RGF_BLOCK 2" fov="5.000" roty="0.000" rotz="0.000">
+        <source url="media/Factory Block 02.png"/>
+      </image>
+      <image stretch="1.000" width="512" height="512" tilt="-10.770" rotx="0.000" clickmode="4" handcursor="1" pan="-359.830" id="RGF_BLOCK 3" fov="5.000" roty="0.000" rotz="0.000">
+        <source url="media/Factory Block 03.png"/>
+      </image>
+      <image stretch="1.000" width="512" height="512" tilt="-13.530" rotx="0.000" clickmode="4" handcursor="1" pan="-70.870" id="RGF_WAREHOUSE" fov="7.000" roty="0.000" rotz="0.000">
+        <source url="media/Warehouse.png"/>
+      </image>
+      <image stretch="1.000" width="512" height="512" tilt="-52.430" rotx="0.000" clickmode="4" handcursor="1" pan="-79.500" id="RGF_MOTOR PARKING" fov="10.000" roty="0.000" rotz="0.000">
+        <source url="media/Motor Parking.png"/>
+      </image>
+      <image stretch="1.000" width="512" height="512" tilt="-22.890" rotx="0.000" clickmode="4" handcursor="1" pan="-305.200" id="RGF_MTN" fov="7.000" roty="0.000" rotz="0.000">
+        <source url="media/MTN Building.png"/>
+      </image>
+      <image stretch="1.000" width="512" height="512" tilt="-21.760" rotx="0.000" clickmode="4" handcursor="1" pan="-292.700" id="RGF_TRANSFORMAER" fov="5.000" roty="0.000" rotz="0.000">
+        <source url="media/Transformer.png"/>
+      </image>
+      <image stretch="1.000" width="512" height="512" tilt="-28.960" rotx="0.000" clickmode="4" handcursor="1" pan="-336.500" id="RGF_R&amp;D" fov="7.000" roty="0.000" rotz="0.000">
+        <source url="media/R&amp;D Building.png"/>
+      </image>
+      <image stretch="1.000" width="512" height="512" tilt="-23.900" rotx="0.000" clickmode="4" handcursor="1" pan="1.530" id="Element01" fov="6.000" roty="0.000" rotz="0.000">
+        <source url="media/Canteen (2 Floors).png"/>
+      </image>
+      <image stretch="1.000" width="512" height="512" tilt="-20.200" rotx="0.000" clickmode="4" handcursor="1" pan="-13.790" id="RGF_COFFEE" fov="4.000" roty="0.000" rotz="0.000">
+        <source url="media/COFFEE HOUSE.png"/>
+      </image>
+      <image stretch="1.000" width="512" height="512" tilt="-12.490" rotx="0.000" clickmode="4" handcursor="1" pan="-345.330" id="Element02" fov="3.000" roty="0.000" rotz="0.000">
+        <source url="media/Utility House 02.png"/>
+      </image>
+      <image stretch="1.000" width="512" height="512" tilt="-18.910" rotx="0.000" clickmode="4" handcursor="1" pan="-21.220" id="RGF_FOOTBALL" fov="5.000" roty="0.000" rotz="0.000">
+        <source url="media/Football Pitch.png"/>
+      </image>
+      <image stretch="1.000" width="512" height="512" tilt="-29.380" rotx="0.000" clickmode="4" handcursor="1" pan="-286.930" id="Element03" fov="5.000" roty="0.000" rotz="0.000">
+        <source url="media/Pump house - Under water tank.png"/>
+      </image>
+      <lensflare alpha="80.000" tilt="60.160" type="1" pan="-345.780" id="Lensflare01" color="0xffffff" blinding="50.000"/>
+    </media>
+    <transition blendtime="1" blendcolor="0x000000" zoomin="0" zoomspeed="2" type="diptocolor" enabled="1" zoomfov="20" zoomoutpause="1" zoomout="0" softedge="0"/>
+    <animation useinautorotation="1" syncanimationwithvideo="1" animsequence="Animation01"/>
+    <control simulatemass="1" dblclickfullscreen="0" invertcontrol="1" contextfullscreen="1" sensitivity="8" lockedwheel="0" invertwheel="0" lockedmouse="0" speedwheel="1" rubberband="0" lockedkeyboard="0" hideabout="0" lockedkeyboardzoom="0" contextprojections="0"/>
+  </panorama>
+  <panorama id="node6">
+    <input levelbiashidpi="1.000" levelbias="0.400" levelingroll="0" width="2048" overlap="1" height="2048" leveltileurl="tiles/node6/cf_%c/l_%l/c_%x/tile_%y.jpg" leveltilesize="510" levelingpitch="0">
+      <level width="2048" predecode="0" height="2048" preload="0"/>
+      <level width="1024" predecode="0" height="1024" preload="0"/>
+      <level width="512" predecode="0" height="512" preload="0"/>
+      <level width="256" predecode="1" height="256" preload="1"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view pannorth="-187.654" fovmode="0">
+      <start projection="4" tilt="-33.381" pan="-11.3014" fov="70"/>
+      <flyin projection="9" tilt="-90" pan="0" fov="170"/>
+      <min tilt="-90" pan="0" fovpixel="2"/>
+      <max fovfisheye="360" fovstereographic="270" tilt="90" pan="360" fov="120" scaletofit="1"/>
+    </view>
+    <userdata author="TLC" comment="" longitude="" description="" source="" title="RGF_VIEW 6" customnodeid="" copyright="TLC" latitude="" datetime="[23 Aug 2019]" info="" tags="REGENT GAMENT 360">
+      <mapcoords mapid="FloorPlan03" x="0.682251" y_floorplan_percent="100" y="-1.58203" x_floorplan_percent="24.2578"/>
+    </userdata>
+    <hotspots width="180" height="20" wordwrap="1">
+      <label width="180" height="20" textalpha="1" bordercolor="0x000000" backgroundcolor="0xffffff" borderalpha="1" enabled="1" borderradius="1" wordwrap="1" backgroundalpha="1" border="1" background="1" textcolor="0x000000"/>
+      <polystyle bordercolor="0x0000ff" mode="0" backgroundcolor="0x0000ff" borderalpha="1" handcursor="1" backgroundalpha="0.25098"/>
+      <hotspot description="" skinid="ht_node" title="RGF_VIEW 5" url="{node5}" tilt="0" pan="-53.3217" target="46.554/0/70" id="Point01"/>
+      <hotspot description="" skinid="ht_node" title="RGF_VIEW 1" url="{node1}" tilt="0" pan="100.425" target="30.5355/0/70" id="Point02"/>
+      <hotspot description="" skinid="ht_node" title="RGF_VIEW 3" url="{node3}" tilt="0" pan="13.6692" target="$fwd" id="Point03"/>
+      <hotspot description="" skinid="ht_node" title="RGF_VIEW 2" url="{node2}" tilt="0" pan="0" target="$fwd" id="Point04"/>
+      <hotspot description="" skinid="ht_node" title="RGF_VIEW 4" url="{node4}" tilt="0" pan="0" target="$fwd" id="Point05"/>
+    </hotspots>
+    <media>
+      <sound startmutedmobile="0" nodechangekeep="0" tilt="-32.230" level="1.000" mode="3" pan="-317.120" pansize="10.000" loop="0" field="90.000" ambientlevel="0.000" id="Noise_Human " tiltsize="10.000">
+        <source url="media/human.mp3"/>
+      </sound>
+      <sound startmutedmobile="0" nodechangekeep="0" tilt="-38.000" level="0.700" mode="3" pan="-8.740" pansize="10.000" loop="0" field="90.000" ambientlevel="0.000" id="Noise_Bird" tiltsize="10.000">
+        <source url="media/Bird.mp3"/>
+      </sound>
+      <sound startmutedmobile="0" nodechangekeep="0" tilt="-36.830" level="0.700" mode="3" pan="-299.660" pansize="10.000" loop="0" field="90.000" ambientlevel="0.000" id="Noise_Bird" tiltsize="10.000">
+        <source url="media/Bird.mp3"/>
+      </sound>
+      <sound startmutedmobile="0" nodechangekeep="0" tilt="-26.440" level="0.700" mode="3" pan="-38.380" pansize="10.000" loop="0" field="90.000" ambientlevel="0.000" id="Noise_Bird" tiltsize="10.000">
+        <source url="media/Bird.mp3"/>
+      </sound>
+      <sound startmutedmobile="0" nodechangekeep="0" tilt="-53.500" level="0.700" mode="3" pan="-247.180" pansize="10.000" loop="0" field="90.000" ambientlevel="0.000" id="Noise_Bird" tiltsize="10.000">
+        <source url="media/Bird.mp3"/>
+      </sound>
+      <sound startmutedmobile="0" nodechangekeep="0" tilt="-44.700" level="0.700" mode="3" pan="-263.150" pansize="10.000" loop="0" field="90.000" ambientlevel="0.000" id="Noise_Bird" tiltsize="10.000">
+        <source url="media/Bird.mp3"/>
+      </sound>
+      <sound startmutedmobile="0" nodechangekeep="0" tilt="-18.460" level="0.500" mode="3" pan="-311.130" pansize="10.000" loop="0" field="90.000" ambientlevel="0.000" id="Noise_Bird" tiltsize="10.000">
+        <source url="media/Bird.mp3"/>
+      </sound>
+      <sound startmutedmobile="0" nodechangekeep="0" tilt="-18.490" level="0.500" mode="3" pan="-57.730" pansize="10.000" loop="0" field="90.000" ambientlevel="0.000" id="Noise_Water Flow" tiltsize="10.000">
+        <source url="media/water flow 01.mp3"/>
+      </sound>
+      <sound startmutedmobile="0" nodechangekeep="0" tilt="-34.980" level="0.500" mode="3" pan="-53.680" pansize="10.000" loop="0" field="90.000" ambientlevel="0.000" id="Noise_Water Flow" tiltsize="10.000">
+        <source url="media/water flow 01.mp3"/>
+      </sound>
+      <sound startmutedmobile="0" nodechangekeep="0" tilt="-20.800" level="1.000" mode="3" pan="-26.270" pansize="10.000" loop="0" field="90.000" ambientlevel="0.000" id="Noise_Tree" tiltsize="10.000">
+        <source url="media/tree.mp3"/>
+      </sound>
+      <sound startmutedmobile="0" nodechangekeep="0" tilt="-18.390" level="1.000" mode="3" pan="-357.050" pansize="10.000" loop="0" field="90.000" ambientlevel="0.000" id="Noise_Tree" tiltsize="10.000">
+        <source url="media/tree.mp3"/>
+      </sound>
+      <sound startmutedmobile="0" nodechangekeep="0" tilt="-44.850" level="1.000" mode="3" pan="-318.550" pansize="10.000" loop="0" field="90.000" ambientlevel="0.000" id="Noise_Tree" tiltsize="10.000">
+        <source url="media/tree.mp3"/>
+      </sound>
+      <sound startmutedmobile="0" nodechangekeep="0" tilt="-76.080" level="1.000" mode="3" pan="-354.520" pansize="10.000" loop="0" field="90.000" ambientlevel="0.000" id="Noise_Tree" tiltsize="10.000">
+        <source url="media/tree.mp3"/>
+      </sound>
+      <sound startmutedmobile="0" nodechangekeep="0" tilt="-48.400" level="1.000" mode="3" pan="-284.310" pansize="10.000" loop="0" field="90.000" ambientlevel="0.000" id="Noise_Tree" tiltsize="10.000">
+        <source url="media/tree.mp3"/>
+      </sound>
+      <sound startmutedmobile="0" nodechangekeep="0" tilt="-27.230" level="1.000" mode="3" pan="-77.010" pansize="10.000" loop="0" field="90.000" ambientlevel="0.000" id="Noise_Tree" tiltsize="10.000">
+        <source url="media/tree.mp3"/>
+      </sound>
+      <sound startmutedmobile="0" nodechangekeep="0" tilt="-15.440" level="1.000" mode="3" pan="-37.710" pansize="10.000" loop="0" field="90.000" ambientlevel="0.000" id="Noise_Tree" tiltsize="10.000">
+        <source url="media/tree.mp3"/>
+      </sound>
+      <sound startmutedmobile="0" nodechangekeep="0" tilt="-1.000" level="0.500" mode="0" pan="-1.000" pansize="10.000" loop="0" field="90.000" ambientlevel="0.000" id="_background" tiltsize="10.000">
+        <source url="media/bensound-energy.mp3"/>
+      </sound>
+      <image stretch="1.000" width="512" height="512" tilt="-35.140" rotx="0.000" clickmode="4" handcursor="1" pan="-316.870" id="RGF_OFFICE" fov="6.000" roty="0.000" rotz="0.000">
+        <source url="media/Main Office (3 Floors).png"/>
+      </image>
+      <image stretch="1.000" width="512" height="512" tilt="-28.240" rotx="0.000" clickmode="4" handcursor="1" pan="-345.930" id="RGF_BLOCK 2" fov="7.000" roty="0.000" rotz="0.000">
+        <source url="media/Factory Block 02.png"/>
+      </image>
+      <image stretch="1.000" width="512" height="512" tilt="-16.460" rotx="0.000" clickmode="4" handcursor="1" pan="-336.890" id="RGF_BLOCK 3" fov="5.000" roty="0.000" rotz="0.000">
+        <source url="media/Factory Block 03.png"/>
+      </image>
+      <image stretch="1.000" width="512" height="512" tilt="-10.300" rotx="0.000" clickmode="4" handcursor="1" pan="-20.050" id="RGF_WAREHOUSE" fov="5.000" roty="0.000" rotz="0.000">
+        <source url="media/Warehouse.png"/>
+      </image>
+      <image stretch="1.000" width="512" height="512" tilt="-17.790" rotx="0.000" clickmode="4" handcursor="1" pan="-31.220" id="RGF_MOTOR PARKING" fov="5.000" roty="0.000" rotz="0.000">
+        <source url="media/Motor Parking.png"/>
+      </image>
+      <image stretch="1.000" width="512" height="512" tilt="-25.190" rotx="0.000" clickmode="4" handcursor="1" pan="-36.090" id="RGF_MTN" fov="5.000" roty="0.000" rotz="0.000">
+        <source url="media/MTN Building.png"/>
+      </image>
+      <image stretch="0.990" width="512" height="512" tilt="-32.980" rotx="0.000" clickmode="4" handcursor="1" pan="-40.290" id="RGF_TRANSFORMAER" fov="3.000" roty="0.000" rotz="0.000">
+        <source url="media/Transformer.png"/>
+      </image>
+      <image stretch="1.000" width="512" height="512" tilt="-24.870" rotx="0.000" clickmode="4" handcursor="1" pan="-19.280" id="RGF_R&amp;D" fov="5.000" roty="0.000" rotz="0.000">
+        <source url="media/R&amp;D Building.png"/>
+      </image>
+      <image stretch="1.000" width="512" height="512" tilt="-19.250" rotx="0.000" clickmode="4" handcursor="1" pan="-11.360" id="Element01" fov="5.000" roty="0.000" rotz="0.000">
+        <source url="media/Canteen (2 Floors).png"/>
+      </image>
+      <image stretch="1.000" width="512" height="512" tilt="-18.360" rotx="0.000" clickmode="4" handcursor="1" pan="-4.020" id="RGF_COFFEE" fov="4.000" roty="0.000" rotz="0.000">
+        <source url="media/COFFEE HOUSE.png"/>
+      </image>
+      <image stretch="1.000" width="512" height="512" tilt="-23.790" rotx="0.000" clickmode="4" handcursor="1" pan="-331.910" id="Element02" fov="3.000" roty="0.000" rotz="0.000">
+        <source url="media/Utility House 02.png"/>
+      </image>
+      <image stretch="1.000" width="512" height="512" tilt="-17.090" rotx="0.000" clickmode="4" handcursor="1" pan="359.430" id="RGF_FOOTBALL" fov="3.000" roty="0.000" rotz="0.000">
+        <source url="media/Football Pitch.png"/>
+      </image>
+      <image stretch="1.000" width="512" height="512" tilt="-27.550" rotx="0.000" clickmode="4" handcursor="1" pan="-43.020" id="Element03" fov="4.000" roty="0.000" rotz="0.000">
+        <source url="media/Pump house - Under water tank.png"/>
+      </image>
+      <lensflare alpha="80.000" tilt="60.000" type="1" pan="-264.680" id="Lensflare01" color="0xffffff" blinding="50.000"/>
+    </media>
+    <transition blendtime="1" blendcolor="0x000000" zoomin="0" zoomspeed="2" type="diptocolor" enabled="1" zoomfov="20" zoomoutpause="1" zoomout="0" softedge="0"/>
+    <animation useinautorotation="1" syncanimationwithvideo="1" animsequence="Animation01"/>
+    <control simulatemass="1" dblclickfullscreen="0" invertcontrol="1" contextfullscreen="1" sensitivity="8" lockedwheel="0" invertwheel="0" lockedmouse="0" speedwheel="1" rubberband="0" lockedkeyboard="0" hideabout="0" lockedkeyboardzoom="0" contextprojections="0"/>
+  </panorama>
+  <masternode>
+    <userdata author="" comment="" longitude="" description="" source="" title="" customnodeid="" copyright="" latitude="" datetime="" info="" tags=""/>
+  </masternode>
+  <map floorplannorth="0" width="1143" tileformat="jpg" height="1280" title="" type="file" transparent="0" zoomlevels="1" bgcolor="rgba(255, 255, 255, 1)" id="FloorPlan02"/>
+  <map floorplannorth="0" width="263" tileformat="jpg" height="195" title="" type="file" transparent="0" zoomlevels="1" bgcolor="rgba(255, 255, 255, 1)" id="FloorPlan01"/>
+  <map floorplannorth="221.03" width="2560" tileformat="jpg" height="1440" title="" type="file" transparent="0" zoomlevels="1" bgcolor="rgba(255, 255, 255, 1)" id="FloorPlan03"/>
+</tour>
